@@ -30,7 +30,6 @@ pip install numpy pandas matplotlib sklearn
 1. Clona el repositorio:
 
 ```bash
-Copiar código
 git clone https://github.com/fernandoflores2002/Prediction-ANN-ANFIS.git
 cd Prediction-ANN-ANFIS
 ```
@@ -38,7 +37,6 @@ cd Prediction-ANN-ANFIS
 2. Abre el cuaderno de Jupyter: Ejecuta el siguiente comando para abrir el archivo DATA.ipynb:
 
 ```bash
-Copiar código
 jupyter notebook DATA.ipynb
 ```
 
